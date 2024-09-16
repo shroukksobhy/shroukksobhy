@@ -8,9 +8,7 @@
 
 📌 Frameworks
 
-
-!React
-
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React Logo" width="100"/>
 
 ![image](https://user-images.githubusercontent.com/26182196/195210747-acefc2df-b188-48ca-8732-a4f43f35941c.png)
 
