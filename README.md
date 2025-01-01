@@ -12,7 +12,6 @@
 ![image](https://user-images.githubusercontent.com/26182196/195210747-acefc2df-b188-48ca-8732-a4f43f35941c.png) 
 
 
-
 🧰 Toolbox
 
 
@@ -23,8 +22,14 @@
 
 
 
-
+**Skills**
+* **Frontend:** React, JavaScript, HTML, CSS
+* **Backend:** PHP,Laravel, Java, Spring Boot, Python, Django
+* **Databases:** SQL, MySQL, PostgreSQL
+* **Cloud:** AWS, Azure, ZohoCRM
+* **Tools:** Git, Docker, Kubernetes 
 ---
+* **LinkedIn:** https://www.linkedin.com/in/shrouk-sobhy
 
 <!--
 **shroukksobhy/shroukksobhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
