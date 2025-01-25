@@ -23,7 +23,7 @@
 
 
 **Skills**
-* **Frontend:** React, JavaScript, HTML, CSS
+* **Frontend:** React, JavaScript, HTML, CSS, NextJS
 * **Backend:** PHP,Laravel, Java, Spring Boot, Python, Django
 * **Databases:** SQL, MySQL, PostgreSQL
 * **Cloud:** AWS, Azure, ZohoCRM
